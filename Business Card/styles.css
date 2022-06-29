@@ -1,0 +1,43 @@
+body {
+    font-family:'Noto Sans', sans-serif;
+    background: #f3e9dc;
+}
+
+
+.card {
+    margin: 40px auto;
+    width: 450px;
+    display: flex;
+    justify-content: space-around;
+    padding: 25px;
+    border-radius: 20px;
+    box-shadow: 2px  2px #00000077;;
+
+    text-align: center;
+    font-size: 17px;
+
+    
+    /* background: #f7fff7; */
+    background: #c08552;
+    /* color: #292f36; */
+    color: #f3e9dc;
+
+    border-bottom: #5e3023 solid 8px;
+}
+
+
+.blue-border {
+    border: dotted 1px blue;
+}
+
+.profile-img {
+    width: 180px;
+    height: 180px;
+    border-radius: 15px;
+    box-shadow: 2px  2px #00000077;;
+}
+
+
+
+
+
